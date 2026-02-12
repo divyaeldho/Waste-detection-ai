@@ -1,0 +1,14 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 8
+names:
+  - Can
+  - Cardboard
+  - Carton
+  - Glass
+  - Newspaper
+  - Paper
+  - Plastic
+  - Tetra
