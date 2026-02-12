@@ -32,11 +32,6 @@ The application includes a **real-time webcam detection feature** and a **user-f
 
 ---
 
-## 🖥️ Demo Preview
-
-*Add screenshot here after upload*
-
----
 
 ## ⚙️ Installation
 
